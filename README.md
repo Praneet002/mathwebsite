@@ -219,7 +219,7 @@ Publish the website in the given URL.
 
 ## OUTPUT
 
-![output](2.png)
+![output](praneet.png)
 
 ## Result:
 
